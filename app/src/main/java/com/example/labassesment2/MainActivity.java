@@ -19,10 +19,10 @@ public class MainActivity extends AppCompatActivity {
     Button btnOrder;
 
     String[] foodItems = {
-             "Biryani",
-            "Lamb curry",
-            "Fish and chips",
-            "Chicken and chips"
+              "Chicken Palau",
+            "Lamb Palau",
+            "Pizza",
+            "Chow Mein"
     };
 
     @Override
